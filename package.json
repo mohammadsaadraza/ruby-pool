@@ -20,7 +20,7 @@
 		"react-scripts": "4.0.3",
 		"web-vitals": "^1.1.2"
 	},
-	"homepage": "https://mohammadsaadraza.github.io/ruby-pool/",
+	"homepage": "https://mohammadsaadraza.github.io",
 	"eslintConfig": {
 		"extends": [
 			"react-app",
