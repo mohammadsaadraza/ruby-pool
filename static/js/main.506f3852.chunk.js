@@ -1,2 +1,0 @@
-(this["webpackJsonpruby-pool"]=this["webpackJsonpruby-pool"]||[]).push([[0],{9:function(e,o,t){"use strict";t.r(o);t(0);var n=t(3),r=t.n(n),c=t(1);var s=function(){return Object(c.jsx)("div",{children:"Ruby Pool"})};r.a.render(Object(c.jsx)(s,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.506f3852.chunk.js.map
