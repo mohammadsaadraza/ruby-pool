@@ -1,0 +1,17 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/ruby-pool/ruby-web-app/main/logo_64x64.ico",
+    "url_png_logo": "https://github.com/ruby-pool/ruby-web-app/blob/main/logo.png?raw=true",
+    "location": "Canada",
+    "social": {
+            "twitter_handle": "rubypools",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "ruby-pool"
+        },
+    
+  }
+}
