@@ -5,13 +5,17 @@
     "location": "Canada",
     "social": {
             "twitter_handle": "rubypools",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
+            "telegram_handle": "LeviiiAckermannnn",
             "github_handle": "ruby-pool"
         },
+    "company": {
+      "name": "RUBY"
+    },
+    "about": {
+      "me": "An independent and mission-driven Cardano Stake Pool dedicated to participating in the decentralized infrastructure of Cardano in a sustainable manner, all the while working with our ADA stake delegators to earn passive staking profits",
+      "server": "Located in Surrey/Canada and Toronto/Canada, our relays currently operate on Cloud-Server, with an upcoming planned migration to said ARM devives of Raspberry Pi 4 powered by solar energy"
+    }
     
-  }
+  },
+  "my-pool-ids": ["2c3390339aba47100f9ab1a230d6d726e10e9d527be49dc5bab479da"]
 }
